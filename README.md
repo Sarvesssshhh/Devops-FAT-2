@@ -34,12 +34,12 @@
 - Inside the cloned folder, I wrote a Dockerfile where I performed simple Linux operations like creating files, listing them, showing system commands, etc.
 
 ### Building Image
-- Once the Dockerfile was ready,I generated the Docker image using:`docker build -t sarvesssshhh/devops-fat2 .`
-- After building,I executed the image to ensure all commands ran successfully:`docker run sarvesssshhh/devops-fat2`
+- I generated the Docker image using:`docker build -t sarvesssshhh/devops-fat2 .`
+- After building the image to ensure all commands ran successfully:`docker run sarvesssshhh/devops-fat2`
 
 ### Upload to DockerHub
 - Since the image was working correctly,I pushed it to my DockerHub account:`docker push sarvesssshhh/devops-fat2`
-- You can view the image here:`https://hub.docker.com/r/sarvesssshhh/cloud-devops-fat-2`
+- You can view the image here: [link](https://hub.docker.com/r/sarvesssshhh/cloud-devops-fat-2)
 
 ### Upload to Github
 I tracked and uploaded my project files to GitHub using:
