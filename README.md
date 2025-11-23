@@ -39,7 +39,7 @@
 
 ### Upload to DockerHub
 - Since the image was working correctly,I pushed it to my DockerHub account:`docker push sarvesssshhh/devops-fat2`
-- You can view the image here: [link](https://hub.docker.com/r/sarvesssshhh/cloud-devops-fat-2)
+- You can view the image here: [link](https://hub.docker.com/r/sarvesssshhh/devops-fat2)
 
 ### Upload to Github
 I tracked and uploaded my project files to GitHub using:
